@@ -1,0 +1,10 @@
+======================
+  my-kitty-conf file 
+======================
+What is Kitty ? 
+
+kitty is highly customizable, everything from keyboard shortcuts, to rendering frames-per-second. See below for an overview of all customization possibilities.
+
+after installing kitty headover to ~/.config/kitty/kitty.conf and paste my conf file there and done !! 
+
+for further reference use https://sw.kovidgoyal.net/kitty/conf/ official docs.
